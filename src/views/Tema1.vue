@@ -5,8 +5,7 @@
 
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
-        span
-          i.fas.fa-info
+        span 1
       h1 Contexto Colombiano de la cadena de suministro
 
     p.mb-5 Se conocerá sobre la cadena de suministro a continuación:
@@ -22,7 +21,7 @@
 
     Separador
 
-    .titulo-segundo
+    #t_1_1.titulo-segundo
       h2 1.1  Tratados de libre comercio en Colombia - TLC
 
     .row.justify-content-center.mb-5
@@ -34,7 +33,7 @@
 
     Separador
 
-    .titulo-segundo
+    #t_1_2.titulo-segundo
       h2 1.2  Convenios de comercialización en Colombia
 
     p.mb-5 En búsqueda de garantizar las estrategias de implementación de instrumentos de gestión, promoción y organización del:
