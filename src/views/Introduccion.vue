@@ -3,28 +3,28 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal
+    .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
     
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+    p.mb-5 En el sector empresarial las diferentes compañías cuentan con características similares y propias que se encargan de un objetivo en general para cumplirle a los consumidores finales, por ello se encuentran cadenas de suministro o cadenas de abastecimiento, estas funcionan como un conjunto de actividades, instalaciones y medios de distribución que son necesarios para llevar a cabo el proceso de venta. Este inicia en la adquisición de materias primas, transformación, producción, fabricación, transporte y entrega al consumidor final.
+
+    .row.mb-5.row-intro-with-box
+      .col-lg-4.col-12.mb-lg-0.mb-5
+        figure
+          img(src="@/assets/curso/intro-imagen1.svg")
+      .col-lg-8.col-12
+        p.mb-0 Tiene como finalidad satisfacer las necesidades del cliente de la mejor manera posible, logrando calidad con la entrega en los tiempos establecidos, se evitan pérdidas o mermas innecesarias, se optimizan los tiempos de distribución, se manejan los inventarios, se establecen canales de comunicación y coordinación.
+          br
+          br
+          | Las empresas deben estar evaluando constantemente a sus proveedores para asegurar que no se desvíen del objetivo que tienen con sus clientes y es allí cuando se utilizan parámetros acordes al sistema de gestión empresarial, por medio de formatos que validen tiempos de entrega, costos del servicio, calidad del producto, descuentos, innovación y canales de comunicación apropiados.
+
+    .row.justify-content-center.mb-5
+      .col-11
+        p.mb-0.additional-text.px-5 Se pueden entonces presentar escenarios donde la empresa tiene varios proveedores, esto puede conllevar a tener materias primas de diferentes características lo que ocasionaría modificaciones en los procesos productivos; por eso se hace necesario que se valide con el proveedor la materia prima, garantizando que cumpla con una serie de requisitos y características específicas.
     
-    p.mb-5 La necesidad de mitigar la pandemia por COVID-19 ha obligado a la comunidad científica internacional, a desarrollar una serie de investigaciones y desarrollos tendientes a presentar una vacuna para hacerle frente a esta enfermedad que aumenta día a día su morbi mortalidad en Colombia. Es así, como en diciembre de 2020, la comunidad científica presenta los resultados de varios desarrollos de vacunas, que ofrecen eficacia y seguridad, respaldados por estudios clínicos rigurosos.
-
-    figure.mb-5
-      img(src="@/assets/curso/banner-intro.jpg", alt="Texto que describa la imagen")
-      figcaption Imagen 1. Vacunación
-
-    p.mb-0 La llegada de nuevas vacunas al país supone un reto para el talento humano en salud responsable de la vacunación y desarrollar habilidades para ofrecer una orientación oportuna y segura a las personas objeto de la vacuna.
-      br
-      br
-      | En ese orden de ideas, este componente formativo guía al aprendiz hacia la identificación de los aspectos normativos, técnicos y operativos de la vacunación contra COVID19 en Colombia y de las generalidades de la infección por SARS-2 COVID 19.
-
 </template>
 
 <script>
