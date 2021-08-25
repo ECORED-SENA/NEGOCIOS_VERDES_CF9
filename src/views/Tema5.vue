@@ -76,18 +76,12 @@
                 img(src="@/assets/curso/tema5-imagen9.svg")
             .col-8
               p.mb-0 Cuando el empleado está debidamente motivado logrará cumplir los objetivos y metas establecidos por la empresa, debe buscar que el personal este estimulado con buenos salarios, incentivos por un buen rendimiento y así tenga un motivo para esforzarse y buscar los mismos que la gerencia.
-            
-    Muestras
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras'
 export default {
   name: 'Tema5',
-  components: {
-    Muestras,
-  },
   data: () => ({
     // variables de vue
   }),
