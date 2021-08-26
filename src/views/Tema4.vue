@@ -10,20 +10,20 @@
 
     .row.justify-content-center
       .col-lg-10
-        .cajon.color-primario.p-5.mb-5
+        .cajon.color-primario.p-5.mb-5(data-aos="fade-right" data-aos-duration="1500")
           p.mb-0 El modo en que se realiza la comunicación en una empresa es fundamental para lograr un proceso efectivo en el suministro de un bien o servicio; puesto que, si no existen unos canales de comunicación ya definidos, abrirá paso para errores que afecten la satisfacción del cliente. 
 
-        p.mb-5 Para lograr una buena planeación en la cadena de suministro es importante conocer las características del producto, esto se define con un proceso logístico que revisó todos los diferentes escenarios para la cadena productiva y allí se controla la calidad, almacenaje y manipulación del producto o servicio, por lo que se tiene en cuenta al fabricante con mejores cualidades o características, pues ofrecen descuentos, acompañamiento técnico, valor unitario y al por mayor, para así determinar qué compra será productiva y cuál no.
+        p.mb-5(data-aos="fade-left" data-aos-duration="1500") Para lograr una buena planeación en la cadena de suministro es importante conocer las características del producto, esto se define con un proceso logístico que revisó todos los diferentes escenarios para la cadena productiva y allí se controla la calidad, almacenaje y manipulación del producto o servicio, por lo que se tiene en cuenta al fabricante con mejores cualidades o características, pues ofrecen descuentos, acompañamiento técnico, valor unitario y al por mayor, para así determinar qué compra será productiva y cuál no.
 
-        figure.mb-5
+        figure.mb-5(data-aos="fade-right" data-aos-duration="1500")
           img(src="@/assets/curso/tema4-imagen1.svg")
 
-        p.mb-5 Dentro de la información es necesario conocer los tipos de compras productivas en las que recaen <strong>las materias primas, componentes, embalajes, etiquetas e inclusive la subcontratación de servicios.</strong>
+        p.mb-5(data-aos="fade-left" data-aos-duration="1500") Dentro de la información es necesario conocer los tipos de compras productivas en las que recaen <strong>las materias primas, componentes, embalajes, etiquetas e inclusive la subcontratación de servicios.</strong>
           br
           br
           | Dentro de las no productivas están:
 
-        .row
+        .row(data-aos="fade-in" data-aos-duration="1500")
           .col-lg-7.mb-lg-0.mb-5
             ol.lista-ol--cuadro
               li 

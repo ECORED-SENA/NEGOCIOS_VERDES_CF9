@@ -10,30 +10,30 @@
 
     p.mb-5 Se conocerá sobre la cadena de suministro a continuación:
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right" data-aos-duration="1200")
       .col-lg-8.col-12
         .box.color-primario.px-5.py-4
           p.mb-0 Hoy en día Colombia cuenta con Tratados de Libre Comercio - TLC con diferentes países del mundo.
 
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1500")
 
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo(data-aos="flip-up")
       h2 1.1  Tratados de libre comercio en Colombia - TLC
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-in" data-aos-duration="1500")
       .col-auto
         p.mb-0 Colombia tiene diferentes tratados y acuerdos con otros países, se aprenderá sobre ellos: 
 
-    figure
+    figure(data-aos="fade-in" data-aos-duration="1500")
       img(src="@/assets/curso/tema1-imagen1.svg")
 
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1500")
 
-    #t_1_2.titulo-segundo
+    #t_1_2.titulo-segundo(data-aos="flip-up")
       h2 1.2  Convenios de comercialización en Colombia
 
     p.mb-5 En búsqueda de garantizar las estrategias de implementación de instrumentos de gestión, promoción y organización del:

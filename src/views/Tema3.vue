@@ -8,9 +8,9 @@
         span 3
       h1 Diagrama de cadena de suministro
 
-    p.mb-5 En la cadena de suministro existen actividades de proceso productivo que una entidad debe contemplar. A continuación, ver figura 1, se evidencia un diagrama de las actividades en orden desde las principales hasta las de apoyo:
+    p.mb-5(data-aos="fade-in" data-aos-duration="1500") En la cadena de suministro existen actividades de proceso productivo que una entidad debe contemplar. A continuación, ver figura 1, se evidencia un diagrama de las actividades en orden desde las principales hasta las de apoyo:
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-in" data-aos-duration="1500")
       .col-10
         .titulo-sexto.color-acento-contenido
           span Figura 1. Diagrama de cadena de suministro.

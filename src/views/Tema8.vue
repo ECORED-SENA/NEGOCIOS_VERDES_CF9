@@ -10,14 +10,14 @@
 
     .row.justify-content-center
       .col-lg-10
-        p.mb-5.text-center Si se hace referencia a una empresa existe una línea de negociación, la cual abarca una estrategia empresarial dividida en áreas, fases o procesos, los cuales son convenientes dependiendo del sentido de la negociación:
+        p.mb-5.text-center(data-aos="fade-right" data-aos-duration="1000") Si se hace referencia a una empresa existe una línea de negociación, la cual abarca una estrategia empresarial dividida en áreas, fases o procesos, los cuales son convenientes dependiendo del sentido de la negociación:
 
-        figure.mb-5
+        figure.mb-5(data-aos="fade-left" data-aos-duration="1000")
           img(src="@/assets/curso/tema8-imagen1.svg")
 
-        p.mb-5 Así se podrían ver los negocios a nivel general con una amplia variedad de elementos que lo componen y guardan cierta relación con un factor fundamental dentro de las estrategias competitivas como lo es la atracción: 
+        p.mb-5(data-aos="fade-right" data-aos-duration="1000") Así se podrían ver los negocios a nivel general con una amplia variedad de elementos que lo componen y guardan cierta relación con un factor fundamental dentro de las estrategias competitivas como lo es la atracción: 
 
-        .bloque-texto-d.color-primario.p-4.mb-5
+        .bloque-texto-d.color-primario.p-4.mb-5(data-aos="fade-left" data-aos-duration="1000")
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             h3.text-regular <strong>Factores de atracción </strong>
@@ -27,14 +27,14 @@
           .bloque-texto-d__autor 
             .h5.mb-0 O'Shaughnessy, 1991, p. 45
 
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-duration="1000")
           .col-auto
             .box.color-acento-contenido.px-5.py-3
               p.mb-0 Conoce en la siguiente tabla 1 algunos factores de atracción: 
     
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left" data-aos-duration="1000")
           span Tabla 1. Factores de atracción.
-        .tabla-a.color-acento-botones.mb-5 
+        .tabla-a.color-acento-botones.mb-5(data-aos="fade-right" data-aos-duration="1000")
           table
             caption Nota. O'Shaughnessy (1991).
             thead
@@ -72,26 +72,26 @@
 
         figure
           img(src="@/assets/curso/tema8-imagen2.svg")
-        .box.color-primario.px-5.py-3.mb-5
+        .box.color-primario.px-5.py-3.mb-5(data-aos="fade-in" data-aos-duration="1000")
           p.mb-0 Las empresas generalmente se mueven en ambientes diferentes, como el ambiente interno y externo. Su capacidad para armonizar estos dos ambientes le permitirá adaptarse al cambio, esto se logra a partir de ajustar todos los procesos, teniendo en cuenta que un eje fundamental es continuar con la fabricación de un excelente producto que cumpla con todos los criterios. Inicia la competitividad cuando se logran encajar todos los aspectos de innovación y en el cuidado del medio ambiente por medio de implementación de productos verdes que garantizan no solo un resultado de excelente calidad si no a su vez, un producto o servicio que cuida del medio ambiente. A continuación, se conocerá un ejemplo de alineación de procesos en la producción de una hoja de papel: 
 
-        .row.justify-content-center.mb-0
+        .row.justify-content-center.mb-0(data-aos="fade-in" data-aos-duration="1000")
           .col-auto
             .box.color-acento-contenido.px-5.py-3
               p.mb-0
                 strong Producción de una hoja de papel
 
-        LineaTiempoB.color-primario.mb-5(:datos="datos")
+        LineaTiempoB.color-primario.mb-5(:datos="datos")(data-aos="fade-in" data-aos-duration="1000")
 
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up")
       h2 8.1  Estado competitivo
 
-    .cajon.color-acento-contenido.p-5.mb-5
+    .cajon.color-acento-contenido.p-5.mb-5(data-aos="fade-right" data-aos-duration="1000")
       p.mb-0 Existe una serie de elementos que determinan el estado de competitividad y que tan rentable es una empresa. Una buena compañía debe tener la capacidad de conocer cómo puede influir o defenderse cuando es atacado por preguntas de un rival o un cliente exigente; de este modo existen elementos que definen los problemas de competitividad que usualmente enfrentan las empresas para lograr un negocio exitoso:
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left" data-aos-duration="1000")
       .col-lg-10
         ol.lista-ol--cuadro.lista-ol--separador.py-3
           li.py-4 
@@ -112,14 +112,14 @@
             p.mb-0 Para los proveedores la negociación requiere de la habilidad de integrar los elementos que hacen falta al momento de integrar una idea que facilite la venta o negociación.
 
 
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up")
       h2 8.2  Evaluación de la competitividad
 
-    p.mb-5 En las estrategias de competencia se dice que es eficaz cuando se logran metas y objetivos establecidos de manera fiable, siempre debe existir un experto en el tema que maneje el área comercial, esto se logra cuando esta persona es principalmente ordenada con la información para poder hacer un seguimiento con un programa que le de alertas de las tareas programadas, de forma que esos: 
+    p.mb-5(data-aos="fade-in" data-aos-duration="1000") En las estrategias de competencia se dice que es eficaz cuando se logran metas y objetivos establecidos de manera fiable, siempre debe existir un experto en el tema que maneje el área comercial, esto se logra cuando esta persona es principalmente ordenada con la información para poder hacer un seguimiento con un programa que le de alertas de las tareas programadas, de forma que esos: 
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-in" data-aos-duration="1000")
       .col-lg-3
         figure
           img(src="@/assets/curso/tema8-imagen4.svg")

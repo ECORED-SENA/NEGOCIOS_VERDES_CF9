@@ -10,15 +10,15 @@
 
     .row.justify-content-center
       .col-lg-10
-        figure.mb-5
+        figure.mb-5(data-aos="fade-left" data-aos-duration="1000")
           img(src="@/assets/curso/tema5-imagen1.jpg")
 
-        p.mb-5 La toma de decisiones es uno de los roles más importantes dentro de una organización, de ahí se define y caracteriza el éxito de un empresario o entidad, si la persona que toma las decisiones importantes tiene la capacidad para solucionar problemas o conflictos de manera eficaz y se adapta fácilmente al cambio, podrá abarcar las decisiones con una mejor afinidad. Para llegar a este punto se preguntará acerca de las necesidades que tiene el cliente, los problemas que está afrontando, qué esfuerzo está dispuesto a realizar para llegar a la solución del conflicto o cuanto tengo para invertir en dicho tema.
+        p.mb-5(data-aos="fade-right" data-aos-duration="1000") La toma de decisiones es uno de los roles más importantes dentro de una organización, de ahí se define y caracteriza el éxito de un empresario o entidad, si la persona que toma las decisiones importantes tiene la capacidad para solucionar problemas o conflictos de manera eficaz y se adapta fácilmente al cambio, podrá abarcar las decisiones con una mejor afinidad. Para llegar a este punto se preguntará acerca de las necesidades que tiene el cliente, los problemas que está afrontando, qué esfuerzo está dispuesto a realizar para llegar a la solución del conflicto o cuanto tengo para invertir en dicho tema.
           br
           br
           | De este modo para que un funcionario logre una apropiada toma de decisiones deberá tener en cuenta unos pasos importantes:
 
-        LineaTiempoC.color-acento-contenido(text-small).tarjeta.tarjeta--gris.py-4.px-5.mb-5
+        LineaTiempoC.color-acento-contenido(text-small).tarjeta.tarjeta--gris.py-4.px-5.mb-5(data-aos="fade-left" data-aos-duration="1500")
           .row(titulo="Planificar").py-5.px-4
             .col-4
               figure

@@ -8,7 +8,7 @@
         span 7
       h1 Proveedores
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-in" data-aos-duration="1000")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema7-imagen1.jpg')})`}"
       )
@@ -21,24 +21,24 @@
           br
           | Tras la evaluación se solicita la información faltante para analizar la compra, garantías, mantenimientos, supervisión, condiciones contractuales, efectos en el precio y tiempos de entrega. 
     
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up")
       h2 7.1  Selección de proveedores
     
     .row.justify-content-center
       .col-lg-10
-        .cajon.color-primario.p-4.mb-5
+        .cajon.color-primario.p-4.mb-5(data-aos="fade-left" data-aos-duration="1000")
           p.mb-0 Dentro de una empresa la gestión de proveedores son un conjunto procedimientos y acciones destinadas a lograr una buena coordinación entre el comprador y el proveedor; por consiguiente, toda empresa debe tener un esquema de proveedores que describa el punto de partida y los diferentes proveedores por la clase de producto. Se hace operativo un sistema de evaluación de proveedores cuando permite ingresar información cada vez que se contacta con un nuevo proveedor con altas posibilidades de adquisición, ver figura 2, allí se evalúa una serie de variables como: 
 
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right" data-aos-duration="1000")
           span Figura 2. Variables para la elección del proveedor.
         figure
           img(src="@/assets/curso/tema7-imagen3.svg")
 
-        hr.color-primario
+        hr.color-primario(data-aos="fade-in" data-aos-duration="1000")
 
-        .row.justify-content-center
+        .row.justify-content-center(data-aos="fade-in" data-aos-duration="1000")
           .col-lg-10
             .row
               .col-3
@@ -47,30 +47,30 @@
               .col-9
                 p.mb-0 El objetivo del sistema de evaluación de proveedores es lograr un acuerdo apropiado para ambas partes, este creará un impacto positivo alto o bajo a las dos partes y un impacto de riesgo de suministro bajo o alto, en muchos casos se requerirá soportar con pólizas o seguros que serán avaladas por los estados financieros de las dos partes de acuerdo a las condiciones especificadas en el contrato, pero que son indispensables para darle seriedad a la negociación
 
-        hr.color-primario
+        hr.color-primario(data-aos="fade-in" data-aos-duration="1000")
     
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up")
       h2 7.2  Pedidos
 
-    .row.justify-content-center.mb-5 
+    .row.justify-content-center.mb-5(data-aos="fade-in" data-aos-duration="1000")
       .col-lg-6
         .box.color-acento-contenido.px-5.py-3
           p.mb-0 Se profundizará con el siguiente video sobre los pedidos:
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-in" data-aos-duration="1000")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up")
       h2 7.3  Plan de compras
 
     .row.justify-content-center
       .col-lg-10
-        .row.mb-5
+        .row.mb-5(data-aos="fade-right" data-aos-duration="1000")
           .col-9
             p.mb-0 En el momento que los productos son adquiridos por el cliente en los locales, tiendas o centros de distribución, se inicia un registro que causa un impacto económico a la empresa de manera positiva, entre más salidas se presenten por venta se incrementa el impacto positivo; por eso la empresa debe ser sincera y garantizar que las especificaciones que presentan al cliente sobre el producto son verdaderas, esto brinda calidad y garantía el éxito empresarial. 
               br
@@ -80,28 +80,28 @@
           .col-3
             figure
               img(src="@/assets/curso/tema7-imagen5.svg")
-        .box.color-primario.px-5.py-3.mb-5
+        .box.color-primario.px-5.py-3.mb-5(data-aos="fade-left" data-aos-duration="1000")
           p.mb-0 Cada empresa es libre de realizar su propia metodología para planificar las compras, pueden especificar inicialmente:
-        figure.mb-5
+        figure.mb-5(data-aos="fade-right" data-aos-duration="1000")
           img(src="@/assets/curso/tema7-imagen6.svg")
-        p.mb-5 Sin embargo, un plan de compras busca facilitar los acuerdos a los que se llega con los proveedores, pues tiene en cuenta el tipo de producto al que se le pueda gestionar su tiempo. Generalmente la gestión de compras está compuesta por 6 fases, ver figura 3:
+        p.mb-5(data-aos="fade-left" data-aos-duration="1000") Sin embargo, un plan de compras busca facilitar los acuerdos a los que se llega con los proveedores, pues tiene en cuenta el tipo de producto al que se le pueda gestionar su tiempo. Generalmente la gestión de compras está compuesta por 6 fases, ver figura 3:
         .titulo-sexto.color-acento-contenido
           span Figura 3. Variables para la elección del proveedor.
-        figure.mb-5
+        figure.mb-5(data-aos="fade-in" data-aos-duration="1000")
           img(src="@/assets/curso/tema7-imagen7.svg").pb-4
           figcaption Nota. Gestión de compras. Serrano (2014) 
-        .row.mb-5
+        .row.mb-5(data-aos="fade-in" data-aos-duration="1000")
           .col-4
             img(src="@/assets/curso/tema7-imagen8.jpg")
           .col-8
             p.mb-0 Estas fases pueden variar en las empresas de acuerdo a la actividad económica que se dedique, por ejemplo, las empresas industriales adquieren materias primas, envases, apoyos técnicos, asesorías, acompañamientos en mantenimientos, equipos tecnológicos y se hace necesario un análisis del precio y calidad; por otro lado las empresas que se dedican a vender al por mayor compran productos a precios competitivos para lograr una ganancia y las empresas que se dedican a la venta de servicios adquieren vehículos para su transporte, contratan servicios generales, personal con modalidad de contratación diferentes o seguros buscando principalmente la satisfacción del cliente.
     
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up")
       h2 7.4  Plan de compras
 
-    .box.color-primario.px-5.py-5.mb-5
+    .box.color-primario.px-5.py-5.mb-5(data-aos="fade-right" data-aos-duration="1000")
       .row
         .col-8
           p.mb-0.px-5 La gestión de las compras se puede clasificar en un ciclo secuencial; es decir que, requiere el uno del otro para garantizar la venta; inicialmente se habla de un producto, los proveedores, los procesos y finaliza con el contrato.
@@ -112,16 +112,16 @@
           figure
             img(src="@/assets/curso/tema7-imagen9.svg")
 
-    p.mb-5 Los procesos son clave dentro de la cadena de suministro ya que supervisan y validan documentalmente la producción y actividades de apoyo con logística, logrando un óptimo funcionamiento para que posteriormente en la gestión del contrato se tengan todos los detalles comerciales y técnicos de la entrada, salida, distribución y entrega de los productos o servicios.
+    p.mb-5(data-aos="fade-left" data-aos-duration="1000") Los procesos son clave dentro de la cadena de suministro ya que supervisan y validan documentalmente la producción y actividades de apoyo con logística, logrando un óptimo funcionamiento para que posteriormente en la gestión del contrato se tengan todos los detalles comerciales y técnicos de la entrada, salida, distribución y entrega de los productos o servicios.
 
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="flip-up" data-aos-duration="1000")
       h2 7.5  Clasificación de las compras
 
-    p.mb-5 Si se quisiera catalogar las compras, se podría hacer dependiendo de varios factores, pero a continuación se clasifica en base al origen de las necesidades:
+    p.mb-5(data-aos="fade-left" data-aos-duration="1000") Si se quisiera catalogar las compras, se podría hacer dependiendo de varios factores, pero a continuación se clasifica en base al origen de las necesidades:
 
-    .row.mb-5 
+    .row.mb-5(data-aos="fade-right" data-aos-duration="1000")
       .col-lg-3
         figure
           img(src="@/assets/curso/tema7-imagen10.svg")

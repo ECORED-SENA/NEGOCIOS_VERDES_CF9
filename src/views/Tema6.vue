@@ -10,15 +10,15 @@
     
     .row.justify-content-center
       .col-lg-10
-        figure.mb-5
+        figure.mb-5(data-aos="fade-right"  data-aos-duration="1000")
           img(src="@/assets/curso/tema6-imagen1.jpg")
 
-        p.mb-5 En la cadena de suministro la trazabilidad permite corroborar la información por medio de registros o soportes en la gestión documental, corresponde al recorrido que lleva el producto o información. Cabe resaltar que la trazabilidad es un medio de defensa para validar las actividades establecidas desde el inicio de la cadena de suministro hasta el final.
+        p.mb-5(data-aos="fade-left") En la cadena de suministro la trazabilidad permite corroborar la información por medio de registros o soportes en la gestión documental, corresponde al recorrido que lleva el producto o información. Cabe resaltar que la trazabilidad es un medio de defensa para validar las actividades establecidas desde el inicio de la cadena de suministro hasta el final.
           br
           br
           | Es importante asociar en el sistema de gestión de la empresa un flujo o recorrido de la información o producto de manera que se pueda encontrar momentos claves para definir lotes, acciones erróneas o puntos definitivos dentro de la fabricación o acabados determinados.
 
-        .row.align-items-end.row-intro-with-box.mb-5
+        .row.align-items-end.row-intro-with-box.mb-5(data-aos="fade-right" data-aos-duration="1000")
           .col-4
             figure.px-5
               img(src="@/assets/curso/tema6-imagen2.svg")
@@ -28,9 +28,9 @@
               br
               | La trazabilidad responde a cumplir con diversos objetivos como: certificar productos verdes, seguridad alimentaria, adquirir bases de datos, controlar toda la cadena de suministro eficazmente, creación o innovación dentro de los productos ya establecidos.
 
-        p.mb-5 En el proceso existen aspectos clave como:
+        p.mb-5(data-aos="fade-in" data-aos-duration="1000") En el proceso existen aspectos clave como:
 
-        ol.lista-ol--cuadro.mb-5
+        ol.lista-ol--cuadro.mb-5(data-aos="fade-right" data-aos-duration="1000")
           li 
             .lista-ol--cuadro__vineta
               span 1
@@ -64,7 +64,7 @@
               span 8
             | Identificación del producto de forma que exista una correlación de todos los puntos y lograr un sistema eficiente.
 
-        .cajon.color-acento-contenido.p-5.mb-5
+        .cajon.color-acento-contenido.p-5.mb-5(data-aos="fade-left" data-aos-duration="1000")
           p.mb-0 En la actualidad, existen normativas aplicables a la empresa, las cuales buscan que se garantice la trazabilidad de la información, productos y servicios como lo son la ISO 9001:2015 del sistema de gestión de calidad, la NTC 45001:2018 del Sistema de gestión de seguridad y salud en el trabajo y la ISO 14001:2015 del Sistema de Gestión Ambiental en las empresas. Estas tres (3) normas forman el sistema de gestión integrado a nivel empresarial y revisando cuidadosamente cada una de ellas habrán numerales que solicitan el cumplimiento de la trazabilidad para lograr una armonía y seguimiento a los diferentes procesos de una compañía. 
   
 </template>
