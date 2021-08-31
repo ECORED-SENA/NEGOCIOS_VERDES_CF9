@@ -23,7 +23,7 @@
     
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up")
+    #t_7_1.titulo-segundo(data-aos="flip-up")
       h2 7.1  Selección de proveedores
     
     .row.justify-content-center
@@ -51,7 +51,7 @@
     
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up")
+    #t_7_2.titulo-segundo(data-aos="flip-up")
       h2 7.2  Pedidos
 
     .row.justify-content-center.mb-5(data-aos="fade-in" data-aos-duration="1000")
@@ -65,7 +65,7 @@
     
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up")
+    #t_7_3.titulo-segundo(data-aos="flip-up")
       h2 7.3  Plan de compras
 
     .row.justify-content-center
@@ -86,7 +86,7 @@
           img(src="@/assets/curso/tema7-imagen6.svg")
         p.mb-5(data-aos="fade-left" data-aos-duration="1000") Sin embargo, un plan de compras busca facilitar los acuerdos a los que se llega con los proveedores, pues tiene en cuenta el tipo de producto al que se le pueda gestionar su tiempo. Generalmente la gestión de compras está compuesta por 6 fases, ver figura 3:
         .titulo-sexto.color-acento-contenido
-          span Figura 3. Variables para la elección del proveedor.
+          span Figura 3. Fases de gestión de compras.
         figure.mb-5(data-aos="fade-in" data-aos-duration="1000")
           img(src="@/assets/curso/tema7-imagen7.svg").pb-4
           figcaption Nota. Gestión de compras. Serrano (2014) 
@@ -98,7 +98,7 @@
     
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up")
+    #t_7_4.titulo-segundo(data-aos="flip-up")
       h2 7.4  Plan de compras
 
     .box.color-primario.px-5.py-5.mb-5(data-aos="fade-right" data-aos-duration="1000")
@@ -116,7 +116,7 @@
 
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up" data-aos-duration="1000")
+    #t_7_5.titulo-segundo(data-aos="flip-up" data-aos-duration="1000")
       h2 7.5  Clasificación de las compras
 
     p.mb-5(data-aos="fade-left" data-aos-duration="1000") Si se quisiera catalogar las compras, se podría hacer dependiendo de varios factores, pero a continuación se clasifica en base al origen de las necesidades:

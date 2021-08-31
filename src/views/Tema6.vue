@@ -16,7 +16,7 @@
         p.mb-5(data-aos="fade-left") En la cadena de suministro la trazabilidad permite corroborar la información por medio de registros o soportes en la gestión documental, corresponde al recorrido que lleva el producto o información. Cabe resaltar que la trazabilidad es un medio de defensa para validar las actividades establecidas desde el inicio de la cadena de suministro hasta el final.
           br
           br
-          | Es importante asociar en el sistema de gestión de la empresa un flujo o recorrido de la información o producto de manera que se pueda encontrar momentos claves para definir lotes, acciones erróneas o puntos definitivos dentro de la fabricación o acabados determinados.
+          | Es importante asociar en el sistema de gestión de la empresa <strong>un flujo o recorrido de la información o producto</strong> de manera que se pueda encontrar momentos claves para definir <strong>lotes, acciones erróneas o puntos definitivos dentro de la fabricación o acabados determinados.</strong>
 
         .row.align-items-end.row-intro-with-box.mb-5(data-aos="fade-right" data-aos-duration="1000")
           .col-4

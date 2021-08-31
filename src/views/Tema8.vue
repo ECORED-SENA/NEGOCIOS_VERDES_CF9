@@ -85,7 +85,7 @@
 
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up")
+    #t_8_1.titulo-segundo(data-aos="flip-up")
       h2 8.1  Estado competitivo
 
     .cajon.color-acento-contenido.p-5.mb-5(data-aos="fade-right" data-aos-duration="1000")
@@ -114,7 +114,7 @@
 
     Separador(data-aos="fade-in" data-aos-duration="1000")
 
-    .titulo-segundo(data-aos="flip-up")
+    #t_8_2.titulo-segundo(data-aos="flip-up")
       h2 8.2  Evaluación de la competitividad
 
     p.mb-5(data-aos="fade-in" data-aos-duration="1000") En las estrategias de competencia se dice que es eficaz cuando se logran metas y objetivos establecidos de manera fiable, siempre debe existir un experto en el tema que maneje el área comercial, esto se logra cuando esta persona es principalmente ordenada con la información para poder hacer un seguimiento con un programa que le de alertas de las tareas programadas, de forma que esos: 

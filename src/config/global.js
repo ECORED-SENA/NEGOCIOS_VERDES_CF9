@@ -179,30 +179,30 @@ export default {
   referencias: [
     {
       referencia:
-        'Casas, K. M. (2013). <i>La logística en seguridad y transporte en la coyuntura</i>. Universidad Militar Nueva Granada.',
+        'Casas, K. M. (2013). <i>La logística en seguridad y transporte en la coyuntura</i>. Universidad Militar Nueva Granada.  ',
       link: 'https://repository.unimilitar.edu.co/handle/10654/9423',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). <i>Plan Nacional de Negocios Verdes</i>.',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). <i>Plan Nacional de Negocios Verdes</i>.  ',
       link:
         'https://www.minambiente.gov.co/images/NegociosVerdesysostenible/pdf/plan_de_negocios_verdes/Plan_Nacional_de_Negocios_Verdes.pdf',
     },
     {
       referencia:
-        "O'Shaughnessy, J. (1991). <i>Marketing competitivo: un enfoque estratégico</i>. Ediciones Díaz de Santos S.A.",
+        "O'Shaughnessy, J. (1991). <i>Marketing competitivo: un enfoque estratégico</i>. Ediciones Díaz de Santos S.A.  ",
       link:
         'https://books.google.com.co/books?id=Zua9_PZcmGcC&printsec=frontcover&dq=marketing+competitivo&hl=es&sa=X&redir_esc=y#v=onepage&q=marketing%20competitivo&f=false',
     },
     {
       referencia:
-        'Serrano, M. J. (2014). <i>Gestión de compras</i>. Madrid. Ediciones Parainfo S.A.',
+        'Serrano, M. J. (2014). <i>Gestión de compras</i>. Madrid. Ediciones Parainfo S.A.  ',
       link:
         'https://books.google.com.co/books?id=fNj7CAAAQBAJ&printsec=frontcover&dq=plan+de+compras&hl=es&sa=X&redir_esc=y#v=onepage&q&f=false',
     },
     {
       referencia:
-        'White, C. H. (2014). <i>MF 1004 Gestión de proveedores</i>. Editorial Elearing S.L. Edición 5.0.',
+        'White, C. H. (2014). <i>MF 1004 Gestión de proveedores</i>. Editorial Elearing S.L. Edición 5.0.  ',
       link:
         'https://books.google.com.co/books?id=KbpWDwAAQBAJ&printsec=frontcover&dq=proveedores&hl=es-419&sa=X&redir_esc=y#v=onepage&q&f=false',
     },
@@ -263,7 +263,7 @@ export default {
     {
       texto:
         'Maya, T., Orjuela J. y Herrera, M. (2020). Retos en el modelado de la trazabilidad en las cadenas de suministro de alimentos. <i>Ingeniería</i>, 25.',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       descarga:
         '/downloads/Anexo2_Retos en el modelado de la trazabilidad en las cadenas de suministro de alimentos.pdf',
     },
@@ -290,7 +290,7 @@ export default {
     {
       texto:
         'Peña, L. y Rodríguez, Y. (2018). Procedimiento de Evaluación y selección de proveedores basado en el proceso de análisis jerárquico y en un modelo de programación lineal entera mixta. <i>Revista Ingeniería</i>, 21.',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       link:
         'http://www.scielo.org.co/pdf/inge/v23n3/0121-750X-inge-23-03-00230.pdf',
     },
@@ -320,7 +320,30 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jessica Andrea Jauregui Silva',
+        cargo: 'Experta temática',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, Empresa y Servicios CIES',
+      },
+      {
+        nombre: 'Paola Moya Peralta ',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
       },
     ],
     desarrolloProducto: [
@@ -336,25 +359,72 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Ivan Uribe Ortiz',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Sergio Omar Camacho Orduz',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
